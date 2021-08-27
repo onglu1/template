@@ -21,6 +21,6 @@ forked from [F0RE1GNERS/template](https://github.com/F0RE1GNERS/template)
 + 代码高亮使用 minted
 
 ## 使用方法  
-更改workflows中的相关链接，改成自己的仓库地址。  
-在Setting - Secrets中加入一个ACCESS_TOKEN秘钥，是自己的Personal access tokens。  
-更改master分支之后，会自动创建action在/template/tree/gh-pages下生成template.pdf文件  
++ 更改workflows中的相关链接，改成自己的仓库地址。  
++ 在Setting - Secrets中加入一个ACCESS_TOKEN秘钥，是自己的Personal access tokens。  
++ 更改master分支之后，会自动创建action在/template/tree/gh-pages下生成template.pdf文件  
