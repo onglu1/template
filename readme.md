@@ -4,7 +4,7 @@
 
 forked from [F0RE1GNERS/template](https://github.com/F0RE1GNERS/template)
 
-自动生成pdf，上传markdown就行了。
+自动生成pdf，上传markdown就行了。 
 
 ## 代码特性
 
