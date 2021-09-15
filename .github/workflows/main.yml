@@ -18,6 +18,7 @@ jobs:
         architecture: 'x64' # (x64 or x86)
     - name: Install Pandoc
       run: |
+        sudo apt update
         mkdir -p /tmp/pandoc
         cd /tmp/pandoc
         python -m pip --no-cache-dir install setuptools wheel
