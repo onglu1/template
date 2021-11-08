@@ -9,7 +9,8 @@ forked from [F0RE1GNERS/template](https://github.com/F0RE1GNERS/template)
 ## 代码特性
 
 + 优先保证代码简洁和可读性，其次是常数
-+ 代码尽量用 `namespace` 封装
++ ~~代码尽量用 `namespace` 封装~~  
++ 代码应该减少封装，尽量减少功能模块之间的耦合程度，便于赛场上手抄。
 + 轻度压行
 + 使用 `template` 来复用代码
 + 代码符合 C++11 标准，且至少需要 C++11
